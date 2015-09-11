@@ -1,0 +1,9 @@
+2;Gengar salvaje, ha aparecido
+Gengar usó Residuos, pero usted lo esquivó
+.Gengar usó Residuos, pero usted lo esquivó
+.Gengar usó Bomba_veneno, pero usted lo esquivó
+.Gengar se ha asustado
+Gengar usó Bola_Sombra, pero usted lo esquivó
+.Gengar se debilito.
+Gengar  fue atrapado!
+;
